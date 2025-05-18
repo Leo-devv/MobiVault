@@ -4,7 +4,7 @@
 
 ## 🔍 Overview
 
-This repository hosts the planning, design, and documentation for **MobiVault**. The project is part of a diploma thesis exploring the trade-offs between **Cloud vs Local Storage** for secure mobile file management.
+This repository hosts the planning, design, and documentation for **MobiVault**. The project will explore the trade-offs between **Cloud vs Local Storage** for secure mobile file management.
 
 ## ✨ Features
 
